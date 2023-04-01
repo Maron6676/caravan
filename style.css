@@ -2,6 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color:#6c6b6b;
+}
+
+a{
+  text-decoration:none;
 }
 
 header{
@@ -52,21 +57,12 @@ header .heading{
   color:#ffffff;
 }
 
-.main{
-  width:100%;
-  display:flex;
-  justify-content:center;
-}
-
 .blog{
-  width:600px;
-  height:1400px;
 }
 
 .sidebar{
-  width:240px;
-  height:1400px;
 }
+
 
 footer{
   width:100%;
